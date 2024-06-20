@@ -33,7 +33,7 @@
 
       <ul class="trigger">
         {%- for nav in site.data.navigation -%}
-          {%- if nav.title and nav.title != "Categories" and nav.title != "Tags" -%}
+          {%- if nav.title and nav.title != "Categories" and nav.title != "Tags" and nav.title != "Years" -%}
             {% if nav.sublinks %}
               <li class="dropdown" href="#">
                 <a href="javascript:void(0)" class="dropbtn">{{ nav.title | escape }}</a>
