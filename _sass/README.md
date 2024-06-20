@@ -136,8 +136,6 @@ You can create a file `_includes/custom-head.html` in your repository, and add a
 You can create a file `_data/navigation.yml` to configure links to some pages. For example,
 
 ```yml
-- title: About
-  url: /about/
 - title: Categories
   url: /categories/
 - title: Tags
@@ -147,8 +145,6 @@ You can create a file `_data/navigation.yml` to configure links to some pages. F
 The navigation bar also supports dropdown submenus:
 
 ```yml
-- title: About
-  url: /about/
 - title: Categories
   url: /categories/
 - title: Tags
@@ -166,11 +162,11 @@ The navigation bar also supports dropdown submenus:
 You can create a file `_data/social.yml` to configure links to your social media. For example,
 
 ```yml
-- title: Twitter
-  url: https://twitter.com/ngzhio
-  icon: fab fa-twitter
+- title: Instagram
+  url: https://www.instagram.com/s_zuno.o
+  icon: fab fa-instagram
 - title: GitHub
-  url: https://github.com/ngzhio/jekyll-theme-hamilton
+  url: https://mooto2002.github.io
   icon: fab fa-github
 ```
 
