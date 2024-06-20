@@ -27,14 +27,10 @@ exclude:
   - README.md
   - jekyll-theme-hamilton.gemspec
 
-# Jekyll SEO Tag (Optional)
-# =========================
-
 logo: 승준.png
 social:
   name: 승준
   links:
     - https://www.instagram.com/s_zuno.o?igsh=ZjF5OXBkZDZkN2x0&utm_source=qr
-    - https://github.com/ngzhio
-google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
+    - https://mooto2002.github.io/
 lang: ko
