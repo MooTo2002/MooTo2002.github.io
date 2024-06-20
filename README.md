@@ -1,5 +1,4 @@
-# MooTo2002.github.io
-어서와
+# 이승준의 개인 홈페이지
 <!DOCTYPE html>
 <html>
 <head>
