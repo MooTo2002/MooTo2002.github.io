@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-http://jekyllthemes.org/ 사이트의 Hamilton 테마 사용
+Another minimal style of Jekyll theme for writers.
