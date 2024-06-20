@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # JBlog Jekyll Theme
 
 **[JBlog](http://alperenbozkurt.net/)** is a simple jekyll theme.
@@ -60,6 +59,3 @@ $thrid-color: rgba(52, 152, 219, 0.8);
 $main-color is panels background color.
 $background-color is background, buttons, links color.
 $thrid-color is opacity version of background color.
-=======
-#어서와요
->>>>>>> 8042e89c59f10f80b5dff40dfa2c98d0682d530e
