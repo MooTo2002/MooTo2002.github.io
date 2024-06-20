@@ -1,13 +1,22 @@
-
 ---
 layout: post
-title: "자기소개"
-date: 2023-01-01 12:00:00 +0900
-categories: introduction
 ---
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-안녕하세요, 저는 20세 여학생입니다. 저는 현재 대학에서 컴퓨터 공학을 전공하고 있으며, 새로운 기술과 프로그래밍 언어를 배우는 것을 좋아합니다. 
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-취미는 독서와 요리, 그리고 친구들과 여행을 다니는 것입니다. 제 목표는 졸업 후에 소프트웨어 개발자로서 일하며, 세상에 긍정적인 영향을 미칠 수 있는 멋진 프로그램을 만드는 것입니다.
+Jekyll also offers powerful support for code snippets:
 
-감사합니다!
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
